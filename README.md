@@ -1,13 +1,12 @@
 # 🎗️ Breast Cancer Survival Prediction System
 
-![
-  
-](<Screenshot 2026-11-21 233841.png>)
-![
-](<Screenshot 2026-11-21 233902.png>)
-![alt text](<Screenshot 2026-11-21 233918.png>)
-![alt text](<Screenshot 2026-11-21 233947.png>)
-![alt text](<Screenshot 2026-11-21 234015.png>)
+<img width="1917" height="931" alt="Screenshot 2026-11-21 233841" src="https://github.com/user-attachments/assets/800e791b-c6b5-4435-86fc-7f1a3068b620" />
+<img width="1904" height="932" alt="Screenshot 2026-11-21 233902" src="https://github.com/user-attachments/assets/83f82ed2-c800-4cbc-aedc-3de36b73f3d1" />
+<img width="1911" height="937" alt="Screenshot 2026-11-21 233947" src="https://github.com/user-attachments/assets/3310fd29-1edc-4e89-b267-11f29cb654da" />
+<img width="1915" height="958" alt="Screenshot 2026-11-21 233918" src="https://github.com/user-attachments/assets/9fccdd5c-cf9e-41fe-a2c9-2ef8cc5d7ef5" />
+<img width="1919" height="965" alt="Screenshot 2026-11-21 234015" src="https://github.com/user-attachments/assets/12883619-5e74-4044-a604-ae01061d12f6" />
+
+
 
 An end-to-end clinical machine learning system that predicts breast cancer patient survival prognosis based on patient demographics, histology, receptor status, surgical intervention details, and protein biomarker expressions.
 
@@ -247,21 +246,25 @@ Contributions are warmly welcomed! To contribute:
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for complete details.
 
----
-
 <p align="center">
   Developed with ❤️ for Data Science & Oncology Research
 </p>
+
+
+
+
+
+---Bangla- Readme-file-
 # 🎗️ Breast Cancer Survival Prediction System
 ## স্তন ক্যান্সার রোগীর বেঁচে থাকার সম্ভাবনা পূর্বাভাস ব্যবস্থা
+<img width="1917" height="931" alt="Screenshot 2026-11-21 233841" src="https://github.com/user-attachments/assets/9dbe48d5-793c-4f8d-b407-7eb7c89f0ace" />
+<img width="1904" height="932" alt="Screenshot 2026-11-21 233902" src="https://github.com/user-attachments/assets/1617343d-a425-4629-9fbc-4a8862f0efb7" />
+<img width="1915" height="958" alt="Screenshot 2026-11-21 233918" src="https://github.com/user-attachments/assets/2da13509-b02e-4573-9061-c655a80013c7" />
+<img width="1911" height="937" alt="Screenshot 2026-11-21 233947" src="https://github.com/user-attachments/assets/b9d137b7-275c-4be0-aa11-4290755f0afb" />
+<img width="1919" height="965" alt="Screenshot 2026-11-21 234015" src="https://github.com/user-attachments/assets/39e19c37-30f8-4e42-b572-0087fda3fa2d" />
 
   
-](<Screenshot 2026-11-21 233841.png>)
-![
-](<Screenshot 2026-11-21 233902.png>)
-![alt text](<Screenshot 2026-11-21 233918.png>)
-![alt text](<Screenshot 2026-11-21 233947.png>)
-![alt text](<Screenshot 2026-11-21 234015.png>)
+
 
 এটি একটি End-to-End Clinical Machine Learning System, যা রোগীর বয়স, লিঙ্গ, টিউমারের ধরন ও পর্যায়, রিসেপ্টর স্ট্যাটাস, সার্জারির তথ্য এবং প্রোটিন বায়োমার্কারের মান বিশ্লেষণ করে স্তন ক্যান্সার রোগীর Survival Prognosis বা বেঁচে থাকার সম্ভাবনা পূর্বাভাস দেয়।
 
